@@ -1,0 +1,11 @@
+[{
+    "imagem": "./img/baconcheddar.png",
+    "paragrafo":"Bacon 60$",
+    "button":"Add"
+},
+{
+    "imagem":"",
+    "paragrafo":"chedar 20$",
+    "button":"Add"
+}
+]
